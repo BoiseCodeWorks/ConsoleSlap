@@ -1,0 +1,11 @@
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\bin\Debug\netcoreapp2.1\ConsoleSlap.deps.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\bin\Debug\netcoreapp2.1\ConsoleSlap.runtimeconfig.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\bin\Debug\netcoreapp2.1\ConsoleSlap.runtimeconfig.dev.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\bin\Debug\netcoreapp2.1\ConsoleSlap.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\bin\Debug\netcoreapp2.1\ConsoleSlap.pdb
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\obj\Debug\netcoreapp2.1\ConsoleSlap.csprojAssemblyReference.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\obj\Debug\netcoreapp2.1\ConsoleSlap.csproj.CoreCompileInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\obj\Debug\netcoreapp2.1\ConsoleSlap.AssemblyInfoInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\obj\Debug\netcoreapp2.1\ConsoleSlap.AssemblyInfo.cs
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\obj\Debug\netcoreapp2.1\ConsoleSlap.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\summer18\ConsoleSlap\obj\Debug\netcoreapp2.1\ConsoleSlap.pdb
